@@ -30,6 +30,12 @@ export default {
                 2: '2',
             },
         },
+        colors: {
+            transparent: 'transparent',
+            current: 'currentColor',
+            white: '#ffffff',
+            blackMain: 'rgb(14,20,32)',
+        },
     },
     plugins: [],
 };

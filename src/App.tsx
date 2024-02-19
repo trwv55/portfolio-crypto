@@ -1,12 +1,16 @@
+import './scss/style.scss'
 import styles from './App.module.scss'
 import Header from './components/Header'
+import Main from './components/Main'
+import Footer from './components/Footer'
 
 function App() {
 
   return (
-    <div className={styles.parent}>
-      <Header />
-      <h1 className={styles.title}>Hello World!</h1>
+    <div className='app'>
+        <Header />
+        <Main />
+        <Footer />
     </div>
   )
 }
