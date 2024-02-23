@@ -29,12 +29,12 @@ export default {
                 1: '1',
                 2: '2',
             },
-        },
-        colors: {
-            transparent: 'transparent',
-            current: 'currentColor',
-            white: '#ffffff',
-            blackMain: 'rgb(14,20,32)',
+            colors: {
+                transparent: 'transparent',
+                current: 'currentColor',
+                white: '#ffffff',
+                blackMain: 'rgb(36,46,52)',
+            },
         },
     },
     plugins: [],
